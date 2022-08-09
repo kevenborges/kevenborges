@@ -1,16 +1,15 @@
-### O maceta bolado né vida.
-
-<!--
-**kevenborges/kevenborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### coding for love 
+##
+<img align="right" alt="gif-raze" height="130" width="130" src="https://c.tenor.com/lSflRMQECFYAAAAd/sage-valorant.gif">
+<div align="left">
+  <a href="https://github.com/samueltdl">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samueltdl&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+    <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueltdl&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Keven-HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Keven-CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Keven-Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
