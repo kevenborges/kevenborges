@@ -2,10 +2,10 @@
 ##
 <img align="right" alt="gif-raze" height="130" width="130" src="https://c.tenor.com/lSflRMQECFYAAAAd/sage-valorant.gif">
 <div align="left">
-  <a href="https://github.com/samueltdl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samueltdl&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/kevenborges">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevenborges&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
     <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueltdl&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevenborges&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
 <div style="display: inline_block"><br>
