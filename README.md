@@ -1,6 +1,6 @@
-### coding for love 
+### coding for love 🤍
 ##
-<img align="right" alt="gif-raze" height="130" width="130" src="https://c.tenor.com/lSflRMQECFYAAAAd/sage-valorant.gif">
+<img align="right" alt="gif-raze" height="130" width="160" src="https://c.tenor.com/lSflRMQECFYAAAAd/sage-valorant.gif">
 <div align="left">
   <a href="https://github.com/kevenborges">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevenborges&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
